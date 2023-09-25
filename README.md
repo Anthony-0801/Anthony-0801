@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Anthony-0801 👋
-- 👀 I’m interested in many things like biking, reading, travelling, learning and more.
-- 🌱 I’m currently learning Javascript in preparation for tackling the Web Development path, but I'd also want to tackle Data/Business Analytics path so next time you'll see some of my related works here ✨
+- 👋 Hi, I’m @Anthony-0801, you can call me, Anthony 👦
+- 👀 I’m interested in many things like biking 🚴‍♂️, reading 📖, travelling 🌄, learning ⭐ and stargazing 🌃 and many many more ❗❗
+- 🌱 I’m currently learning Javascript in preparation for tackling the Web Development path 🌐, but I'd also want to tackle Data/Business Analytics path 📈 so next time you'll see some of my related works here ✨
 - 💞️ I’m looking to collaborate on anyone who'd like to teach me as I'm a learner, an ever-learning one ✨
 - 📫 How to reach me? I'll update this soon
 
