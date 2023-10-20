@@ -1,10 +1,46 @@
-- 👋 Hi, <strong>I’m <em>@Anthony-0801</em></strong>, you can call me, <em>Anthony</em> 👦
-- 👀 Aside from coding 📝 and programming 📝, I’m also interested in many things like biking 🚴‍♂️, reading 📖, travelling 🌄, learning ⭐ stargazing 🌃 and many many more ❗❗
-- 🌱 I’m currently learning Javascript in preparation for tackling the Web Development path 🌐, but I'd also want to tackle Data/Business Analytics path 📈 so next time you'll see some of my related works here ✨
-- 💞️ I’m looking out to collaborate on anyone who'd like to teach me as I'm a learner, an ever-learning one ✨
-- 📫 How to reach me? I'll update this soon
+![MInimalist Simple thank card landscape](https://github.com/Anthony-0801/Anthony-0801/assets/141275535/81bdfa62-bdba-41e7-9fb0-1456ac0f3973)
 
-<!---
-Anthony-0801/Anthony-0801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Anthony 👋
+
+
+## 🚀 About Me
+Aside from coding and programming 📝, I’m also interested in many things like:
+- biking 🚴‍♂️, 
+- reading 📖,
+- travelling 🌄, 
+- learning ⭐ 
+- stargazing 🌃 
+
+
+
+## 🛠 Skills
+### Web Development
+#### Frontend
+```
+HTML, CSS, Javascript
+```
+#### Backend
+```
+PHP, MySql
+```
+### Data Analytics and Data Visualization
+```
+Python, SQL, R, Excel, PowerBI
+```
+
+
+## Special Note
+👩‍💻 I'm currently working on some simple projects of mine, you can check it out here!
+
+🧠 I'm currently learning Javascript and ES6
+
+👯‍♀️ I'm looking to collaborate on anyone who's willing to teach me
+
+🤔 I'm looking for good and valuable and experience
+
+💬 Ask me about anything, don't be shy!
+
+📫 How to reach me? Email me at zyxanthony15@gmail.com
+
+⚡️ Fun fact about me? I love to listen and admire someone's story, now tell yours!
+
