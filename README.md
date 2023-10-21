@@ -36,7 +36,7 @@ Python, SQL, R, Excel, PowerBI
 
 👯‍♀️ I'm looking to collaborate on anyone who's willing to teach me
 
-🤔 I'm looking for good and valuable and experience
+🤔 I'm looking for good and valuable experience
 
 💬 Ask me about anything, don't be shy!
 
