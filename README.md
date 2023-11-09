@@ -32,7 +32,7 @@ Python, SQL, R, Excel, PowerBI
 ## Special Note
 👩‍💻 I'm currently working on some simple projects of mine, you can check it out here!
 
-🧠 I'm currently learning Javascript and ES6
+🧠 I'm currently learning Javascript and ES6 (9/11/2023)
 
 👯‍♀️ I'm looking to collaborate on anyone who's willing to teach me
 
