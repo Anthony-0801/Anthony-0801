@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=Anthony-0801&style=for-the-badge" align="center">
   </div>
 </div>
-# Hi, I'm Anthony 👋
+<h1 align="center">Hi, I'm Anthony 👋</h1>
 <hr/>
 
 
