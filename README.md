@@ -14,7 +14,37 @@
   </div>
 </div>
 <h1 align="center">Hi, I'm Anthony 👋</h1>
-<hr/>
 
 
+## About Me 🚀
+Aside from coding and programming 📝, I’m also interested in many things like:
+- biking 🚴‍♂️, 
+- reading 📖,
+- travelling 🌄, 
+- learning ⭐ 
+- stargazing 🌃 
 
+## 🛠 Languages and Tools 🛠️
+### Web Development
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</div>
+
+
+### Data Analytics
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40"/>&nbsp;
+</div>
+
+
+### 🔥 My Stats 🔥
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Anthony-0801&theme=shadow-blue&border_radius=5" alt="GitHub Streak" /></a>
+
+---
+Will update soon...
+---
