@@ -46,5 +46,5 @@ Aside from coding and programming 📝, I’m also interested in many things lik
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Anthony-0801&theme=shadow-blue&border_radius=5" alt="GitHub Streak" /></a>
 
 ---
-Will update soon..
+Will update soon.. 😙
 ---
