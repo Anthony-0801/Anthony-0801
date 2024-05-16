@@ -6,7 +6,9 @@
   <a href="https://www.linkedin.com/in/anthony-cabulang-4b8163299/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/anthony.cabulang1@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="mailto:anthony.cabulang1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
     
   <div align="center">
