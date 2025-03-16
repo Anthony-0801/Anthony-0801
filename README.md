@@ -15,7 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=Anthony-0801&style=for-the-badge">
   </div>
 </div>
-<h1 align="center">Hi, I'm Anthony 👋</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=35&center=true&vCenter=true&color=0077B5&width=700&height=70&duration=4000&lines=Hi!+👋;+I'm+Anthony!😉;" />
+</h1>
+
 
 
 ## About Me 🚀
@@ -30,10 +33,34 @@ Aside from coding and programming 📝, I’m also interested in many things lik
 ### Web Development
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+  </div>
+
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="40" height="40"/>
+    
+  </div>
+
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" width="40" height="40"/>
+  </div>
+</div>
+
+### Database
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 </div>
 
 
@@ -48,6 +75,6 @@ Aside from coding and programming 📝, I’m also interested in many things lik
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Anthony-0801&theme=shadow-blue&border_radius=5" alt="GitHub Streak" /></a>
 
 ---
-Will update soon.. 😙💙💙💙💙
+Will update soon.. 😙💙💙💙
 Will add links here soon..
 ---
